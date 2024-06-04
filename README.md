@@ -89,7 +89,7 @@
 
 На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0). По 3 попытки.<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3dd16b99-39b1-4444-971d-b0cef61411df)<br>
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/92bd2822-292f-49a4-b165-ab45e79ab0f3)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/92bd2822-292f-49a4-b165-ab45e79ab0f3)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/b5e4ec1a-c434-4838-9cb2-8a8610204162)
 
 
@@ -118,14 +118,14 @@
 
 **Приложение - Lethal Company**
 
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/30075e59-a491-45d0-a1e8-6885090dfeba)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/2a863d76-2de4-40b2-81c5-fc5f48a039bc)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/e48a1cf6-1b35-43d7-b007-f3beeb532c63)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/30075e59-a491-45d0-a1e8-6885090dfeba)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/2a863d76-2de4-40b2-81c5-fc5f48a039bc)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/e48a1cf6-1b35-43d7-b007-f3beeb532c63)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/500da28f-5c77-4f22-820e-c859cd9423e6)
 
 На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/416e59e7-2319-40d2-b37f-afe0dd61fd77)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/6906b1a8-c519-4f38-a6d9-89238eba24d0)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/416e59e7-2319-40d2-b37f-afe0dd61fd77)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/6906b1a8-c519-4f38-a6d9-89238eba24d0)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/9b01848b-adbf-4f9b-af3a-c01a080bfc24)
 
 В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
@@ -152,15 +152,15 @@
 
 **Приложение - Minecraft**
 
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3666846c-f87f-4444-b840-2ac1031ffb15)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/cb8bd279-f601-4197-9bec-0b4bbb05a7fe)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/e97c4c66-84c8-4cd0-90c1-6d98095e8cc3)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3666846c-f87f-4444-b840-2ac1031ffb15)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/cb8bd279-f601-4197-9bec-0b4bbb05a7fe)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/e97c4c66-84c8-4cd0-90c1-6d98095e8cc3)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/d1711263-ef5f-4fd8-80f6-90bba71b456c)
 
 На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/0f075057-38cf-4723-afca-1856e67c0aaf)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/4e68e276-3f3d-4c44-8673-8f25061cf97b)<br>
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/96e6b694-f130-4155-b020-b777f54c94a6)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/96e6b694-f130-4155-b020-b777f54c94a6)
 
 В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
 
@@ -187,14 +187,14 @@
 
 **Приложение - Car Mechanic Simulator**
 
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/d07bf0a7-c367-4e41-a6fd-ec275a09ac04)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/0f71d79b-146b-4518-b69b-1fc753a25765)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/ead34ece-031e-43bc-b8d8-3626e61407c4)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/d07bf0a7-c367-4e41-a6fd-ec275a09ac04)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/0f71d79b-146b-4518-b69b-1fc753a25765)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/ead34ece-031e-43bc-b8d8-3626e61407c4)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/6cb5cc5d-bb97-445f-b53f-2162faab668b)
 
 На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/bd45b719-d80a-4ca1-a8ab-9f343c5fa703)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/b0f7ad94-5928-401a-a870-f58d2d0892ba)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/bd45b719-d80a-4ca1-a8ab-9f343c5fa703)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/b0f7ad94-5928-401a-a870-f58d2d0892ba)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/16f644ec-4ac1-4f03-8bff-0c68c33e86d7)
 
 В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
@@ -221,15 +221,15 @@
 
 **Приложение - WPS (Аналог Word)**
 
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/9f7eaa56-24eb-404e-a398-769d5669d3e2)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/66b0be84-72d7-468a-b860-dcfbdafd0f5e)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3c698ca8-8ecd-4671-a844-e039fd09e725)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/9f7eaa56-24eb-404e-a398-769d5669d3e2)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/66b0be84-72d7-468a-b860-dcfbdafd0f5e)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3c698ca8-8ecd-4671-a844-e039fd09e725)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/7ebd6bae-192a-4b34-b722-7393016bc04c)
 
 На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
 
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/cce9f23e-a5ea-44e9-b8ae-85182b916fc1)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/7b6507c3-ed95-4228-b215-61be97b4e92a)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/cce9f23e-a5ea-44e9-b8ae-85182b916fc1)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/7b6507c3-ed95-4228-b215-61be97b4e92a)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/e657d14f-48bd-4a30-9ac8-27266e97f074)
 
 В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
