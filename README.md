@@ -1,4 +1,3 @@
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/c30ae055-fd44-4d68-81c2-916e4dff7800)# Authentication_by_keyboard_handwriting
 # Скнытая аутентификация на основе клавиатурного почерка и движений мыши
 # Исследование методов скрытой аутентификации пользователей
 
@@ -91,6 +90,7 @@
 На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3dd16b99-39b1-4444-971d-b0cef61411df)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/92bd2822-292f-49a4-b165-ab45e79ab0f3)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/c30ae055-fd44-4d68-81c2-916e4dff7800)# Authentication_by_keyboard_handwriting
 
 В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
 
