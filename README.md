@@ -81,16 +81,17 @@
 
 **Приложение - Counter Strike 2**
 
-На рисунке ниже показано соотношение количества нажатий мыши и клавиатуры. Общее количество клавиш в краткосрочной итерации - 250. Слева 1 попытка, справа - 3, соответственно.<br>
+На рисунке ниже показано соотношение количества нажатий мыши и клавиатуры. Общее количество клавиш в краткосрочной итерации - 250. По 3 попытки.<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/b4de7fc9-e193-4d77-a6f2-c61f2e3db67c)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/ecaf6b01-0e90-469b-88bd-3c65afcc61b3)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/b7b753a2-86e0-454c-b513-9f9963927722)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/6316c3cc-9ebb-41ac-b726-a408892c0041)
 
-На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
+На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0). По 3 попытки.<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3dd16b99-39b1-4444-971d-b0cef61411df)<br>
 ![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/92bd2822-292f-49a4-b165-ab45e79ab0f3)
-![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/c30ae055-fd44-4d68-81c2-916e4dff7800)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/b5e4ec1a-c434-4838-9cb2-8a8610204162)
+
 
 В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
 
@@ -115,10 +116,143 @@
 |Время нажатия клавиши|	0,517с|
 
 
+**Приложение - Lethal Company**
+
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/30075e59-a491-45d0-a1e8-6885090dfeba)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/2a863d76-2de4-40b2-81c5-fc5f48a039bc)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/e48a1cf6-1b35-43d7-b007-f3beeb532c63)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/500da28f-5c77-4f22-820e-c859cd9423e6)
+
+На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/416e59e7-2319-40d2-b37f-afe0dd61fd77)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/6906b1a8-c519-4f38-a6d9-89238eba24d0)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/9b01848b-adbf-4f9b-af3a-c01a080bfc24)
+
+В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
+
+|Параметр|	Значение|
+|----------|---------|
+|ЛКМ|	2.59754|
+|ПКМ|	4.25929|
+|SPACE|	3.89868|
+|SHIFT|	28.69477|
+|CTRL	|1.125|
+|ALT	|0|
+|CAPS	|0|
+|ESC	|1,333|
+|DEL	|0|
+|BACKSPACE|	6.333|
+|ENTER	|2|
+|Дельта мыши по оси OX|	25.34973|
+|Дельта мыши по оси OY|	61.4749|
+|Порог ошибки	|4.2393|
+|Количество нажатий мыши|	4.04536|
+|Количество нажатий клавиатуры|	172.5096|
+|Время нажатия клавиши	0.363с|
+
+**Приложение - Minecraft**
+
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3666846c-f87f-4444-b840-2ac1031ffb15)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/cb8bd279-f601-4197-9bec-0b4bbb05a7fe)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/e97c4c66-84c8-4cd0-90c1-6d98095e8cc3)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/d1711263-ef5f-4fd8-80f6-90bba71b456c)
+
+На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/0f075057-38cf-4723-afca-1856e67c0aaf)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/4e68e276-3f3d-4c44-8673-8f25061cf97b)<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/96e6b694-f130-4155-b020-b777f54c94a6)<br>
+
+В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
+
+|Параметр	|Значение|
+|--------|-------|
+|ЛКМ|	11.48444|
+|ПКМ|	30.04183|
+|SPACE|	36.76703|
+|SHIFT|	19.89816|
+|CTRL	|0.25|
+|ALT	|0.083|
+|CAPS	|0|
+|ESC	|1.17352|
+|DEL	|0|
+|BACKSPACE|	0.583|
+|ENTER	|2|
+|Дельта мыши по оси OX|	1755.6486|
+|Дельта мыши по оси OY|	2095.012|
+|Порог ошибки|	7|
+|Количество нажатий мыши|	40.565|
+|Количество нажатий клавиатуры|	240.7503|
+|Время нажатия клавиши	|1.246с|
 
 
- 
+**Приложение - Car Mechanic Simulator**
 
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/d07bf0a7-c367-4e41-a6fd-ec275a09ac04)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/0f71d79b-146b-4518-b69b-1fc753a25765)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/ead34ece-031e-43bc-b8d8-3626e61407c4)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/6cb5cc5d-bb97-445f-b53f-2162faab668b)
+
+На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/bd45b719-d80a-4ca1-a8ab-9f343c5fa703)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/b0f7ad94-5928-401a-a870-f58d2d0892ba)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/16f644ec-4ac1-4f03-8bff-0c68c33e86d7)
+
+В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
+
+|Параметр|	Значение|
+|---------|----------|
+|ЛКМ	|57.339|
+|ПКМ	|6.893|
+|SPACE|	14.7743|
+|SHIFT|	0.2916|
+|CTRL|	0|
+|ALT|	0.2916|
+|CAPS|	0.291|
+|ESC|	7.2456|
+|DEL|	0|
+|BACKSPACE|	|0.333|
+|ENTER	|0.8125|
+|Дельта мыши по оси OX|	4384.3|
+|Дельта мыши по оси OY|	6870.26|
+|Порог ошибки	|4.206|
+|Количество нажатий мыши	|64.4415|
+|Количество нажатий клавиатуры|	135.7803|
+|Время нажатия клавиши	|1.786с|
+
+**Приложение - WPS (Аналог Word)**
+
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/9f7eaa56-24eb-404e-a398-769d5669d3e2)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/66b0be84-72d7-468a-b860-dcfbdafd0f5e)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/3c698ca8-8ecd-4671-a844-e039fd09e725)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/7ebd6bae-192a-4b34-b722-7393016bc04c)
+
+На рисунках ниже показаны наиболее частые положения мыши. Левый верхний угол монитора - координата (0:0).<br>
+
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/cce9f23e-a5ea-44e9-b8ae-85182b916fc1)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/7b6507c3-ed95-4228-b215-61be97b4e92a)
+![image](https://github.com/DerbiLow/Authentication-by-keyboard-handwriting/assets/126500303/e657d14f-48bd-4a30-9ac8-27266e97f074)
+
+В таблице ниже представлены данные эталонного пользователя. Или же датасет.<br>
+
+|Параметр|	Значение|
+|-------|---------|
+|ЛКМ	|1.65|
+|ПКМ	|0|
+|SPACE	|9.7291|
+|SHIFT	|2.962|
+|CTRL	|0.393|
+|ALT	|1.23|
+|CAPS	|0|
+|ESC	|0|
+|DEL	|0|
+|BACKSPACE|	4.8472|
+|ENTER|	1.1094|
+|Дельта мыши по оси OX|	162.35|
+|Дельта мыши по оси OY|	96.503|
+|Порог ошибки	|5.08083|
+|Количество нажатий мыши	|1.65|
+|Количество нажатий клавиатуры	|95.906|
+|Время нажатия клавиши	|0.463с|
 
  # Результаты
 
@@ -129,6 +263,8 @@
 
 На текущий момент работы приостановлены из-за особенностей функции обработки нажатия клавиш. Основная проблема - недостоверность собираемых данных. <br>
 При удержании одной клавиши, например, клавиша «W» в копмьютерной игре для передвижения вперед, программа считывает примерно до 10-20 нажатий в секунду. Если в этот момент нажать любую другую клавишу и оставить при этом нажатой клавишу «W», то программа перестает считать нажатия именно клавиши «W», сколько бы долго ее не держать нажатой. То есть поточная обработка нескольких нажатий одновременна невозможна. Ищутся способы решения этой проблемы. Возможен переход на другой язык программирования.
+
+Бета-версии, написанной на C++ в открытом доступе пока что не будет, из соображений безопасности.
 
 
 
